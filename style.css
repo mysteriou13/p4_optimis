@@ -28,9 +28,15 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
-img{
+.img_porto{
 
     width: 100%;
+
+}
+
+.img_logo{
+
+    width: 24%;
 
 }
 
