@@ -90,6 +90,13 @@ a:hover {
     right: 0;
 }
 
+.center-image-logo{
+
+    margin-left: 43%;
+
+}
+
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
