@@ -23,4 +23,13 @@
         
     }
 
+    .img_title{
+
+        width: 59vh;
+    height: 11vh;
+    position: relative;
+    left: -8%;
+
+    }
+
 }
