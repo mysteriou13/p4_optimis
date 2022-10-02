@@ -32,4 +32,19 @@
 
     }
 
+    .img_citation{
+
+        width: 58vh;
+        height: 27vh;
+        position: relative;
+        left: -8%;
+
+    }
+
+    .img_title2{
+
+        width: 52vh;
+
+    }
+
 }
