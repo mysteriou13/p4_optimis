@@ -52,6 +52,12 @@ a:hover {
 
 }
 
+.flex_box{
+
+    display: block;
+    
+}
+
 .bloc {
     width: 100%;
     clear: both;
