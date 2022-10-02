@@ -8,6 +8,14 @@ body {
     
 }
 
+
+.nav_box{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
 @media screen and (max-width:400px) {
     
     body{
@@ -15,7 +23,15 @@ body {
         width: 98vh;
     }
 
+    .nav_box{
+
+        display: block;
+        
+    }
+    
+
 }
+
 
 a,
 button {
