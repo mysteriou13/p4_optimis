@@ -171,7 +171,7 @@ a:hover {
 .d-bloc h4 a,
 .d-bloc h5 a,
 .d-bloc h6 a,
-.d-bloc p a {
+.d-bloc p a, .color_text {
     color: rgba(255, 255, 255, .6);
 }
 
