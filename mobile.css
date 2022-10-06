@@ -1,6 +1,12 @@
 @media screen and (max-width:440px) {
     
 
+    html{
+
+        overflow-x: hidden;
+
+    }
+
     .nav_box{
 
         display: block;
