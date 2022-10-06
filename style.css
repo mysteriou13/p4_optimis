@@ -47,7 +47,13 @@ justify-content: space-between;
 }
 
 
+.text_citation{
 
+    width: 33%;
+position: relative;
+left: 34%;
+
+}
 
 a,
 button {

@@ -66,6 +66,15 @@
 
     }
 
+
+    .text_citation {
+        width: 100%;
+        position: relative;
+        left: 0%;
+      }
+      
+
+
     .box_footer{
         position: relative;
 
