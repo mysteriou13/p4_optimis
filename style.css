@@ -41,8 +41,6 @@ a:hover{
 
 .nav_bar{
 
-z-index: 1;
-
 list-style: none;
 display: flex;
 justify-content: space-between;
