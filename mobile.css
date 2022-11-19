@@ -36,6 +36,13 @@
        }
        
 
+       .position_logo{
+        
+        position: relative;
+        left: 24%;
+
+       }
+
        .div_nav {
         width: 85%;
         position: relative;
