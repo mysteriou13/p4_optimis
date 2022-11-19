@@ -27,6 +27,12 @@
 }
 
 
+.text_citation {
+    width: 100%;
+    position: relative;
+    left: 28%;
+  }
+
 .social {
     display: block;
     margin: auto auto auto auto;
