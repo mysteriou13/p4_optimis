@@ -1195,14 +1195,11 @@ a:hover {
     background: #FFF url(img/pageload-spinner.gif) no-repeat center center
 }
 
-.img_porto {
-    width: 100%
-}
 
 .img_logo {
- 
-    
-    aspect-ratio: 1 / 1;
+    width: 100px;
+    height: 100px;
+
 }
 
 .flex_box {
