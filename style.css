@@ -13,6 +13,7 @@ img {
     height: 100%;
 }
 
+
 nav {
     width: 98%
 }
@@ -80,6 +81,8 @@ a:hover {
 .img_logo {
     width: 24%;
     height: 60%;
+    position: relative;
+    left: 37%;
 }
 
 .flex_box {
@@ -1203,11 +1206,6 @@ a:hover {
 }
 
 
-.img_logo {
-    width: 100px;
-    height: 100px;
-
-}
 
 .flex_box {
     display: flex
