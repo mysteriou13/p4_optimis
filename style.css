@@ -46,6 +46,12 @@ a:hover {
     left: 34%
 }
 
+.text-center{
+
+    text-align: center;
+
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
